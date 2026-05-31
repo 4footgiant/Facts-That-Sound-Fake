@@ -1,0 +1,902 @@
+[
+  {
+    "id": "BR001",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR002",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR003",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR004",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR005",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR006",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR007",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR008",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR009",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR010",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR011",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR012",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR013",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR014",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR015",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR016",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR017",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR018",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR019",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR020",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR021",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR022",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR023",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR024",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR025",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR026",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR027",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR028",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR029",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR030",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR031",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR032",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR033",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR034",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR035",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR036",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR037",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR038",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR039",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR040",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR041",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR042",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR043",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR044",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR045",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR046",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR047",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR048",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR049",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR050",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR051",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR052",
+    "category": "Brain Damage",
+    "subcategory": "Facts  that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR053",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR054",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR055",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR056",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR057",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR058",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR059",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR060",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR061",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR062",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR063",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR064",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR065",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR066",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR067",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR068",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR069",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR070",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR071",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR072",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR073",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR074",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR075",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR076",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR077",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR078",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR079",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR080",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR081",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR082",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR083",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR084",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR085",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR086",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR087",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR088",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR089",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR090",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  },
+  {
+    "id": "BR091",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your brain named itself",
+    "answer": true
+  },
+  {
+    "id": "BR092",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "You never truly touch anything because of atomic forces",
+    "answer": true
+  },
+  {
+    "id": "BR093",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Your bones are wet",
+    "answer": true
+  },
+  {
+    "id": "BR094",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Clouds can weigh over a million pounds",
+    "answer": true
+  },
+  {
+    "id": "BR095",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Humans glow faintly in the dark",
+    "answer": true
+  },
+  {
+    "id": "BR096",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your skeleton constantly replaces itself",
+    "answer": true
+  },
+  {
+    "id": "BR097",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Time moves differently depending on gravity",
+    "answer": true
+  },
+  {
+    "id": "BR098",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Bananas are technically berries",
+    "answer": true
+  },
+  {
+    "id": "BR099",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Trees communicate underground",
+    "answer": true
+  },
+  {
+    "id": "BR100",
+    "category": "Brain Damage",
+    "subcategory": "Facts that permanently alter your thinking.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Lightning is hotter than the Sun’s surface",
+    "answer": true
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Facts That Sound Fake",
+  "description": "A lightweight, addictive, mystery-themed facts game featuring ultra-weird internet-humor truths and simulated fake facts, packed with easter eggs and sarcastic achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

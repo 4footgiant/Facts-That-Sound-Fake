@@ -1,0 +1,902 @@
+[
+  {
+    "id": "CU001",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU002",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU003",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU004",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU005",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU006",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU007",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU008",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU009",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU010",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU011",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU012",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU013",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU014",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU015",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU016",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU017",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU018",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU019",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU020",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU021",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU022",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU023",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU024",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU025",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU026",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU027",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU028",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU029",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU030",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU031",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU032",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU033",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU034",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU035",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU036",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU037",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU038",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU039",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU040",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU041",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU042",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU043",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU044",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU045",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU046",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU047",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU048",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU049",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU050",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU051",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU052",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU053",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU054",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU055",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU056",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU057",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU058",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU059",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU060",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU061",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU062",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU063",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU064",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU065",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU066",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU067",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU068",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU069",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU070",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU071",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU072",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU073",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU074",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU075",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU076",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU077",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU078",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU079",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU080",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU081",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didnid know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU082",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU083",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU084",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU085",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU086",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU087",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU088",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU089",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU090",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  },
+  {
+    "id": "CU091",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Some parasites control the minds of their hosts",
+    "answer": true
+  },
+  {
+    "id": "CU092",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Your brain eats itself during starvation",
+    "answer": true
+  },
+  {
+    "id": "CU093",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Dust in your house contains dead skin",
+    "answer": true
+  },
+  {
+    "id": "CU094",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Some worms can survive being cut in half",
+    "answer": true
+  },
+  {
+    "id": "CU095",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "There are mites living on human eyelashes",
+    "answer": true
+  },
+  {
+    "id": "CU096",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your teeth are technically not bones",
+    "answer": true
+  },
+  {
+    "id": "CU097",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Certain frogs can freeze solid and survive",
+    "answer": true
+  },
+  {
+    "id": "CU098",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some spiders keep frogs as pets",
+    "answer": true
+  },
+  {
+    "id": "CU099",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "The human body glows faintly",
+    "answer": true
+  },
+  {
+    "id": "CU100",
+    "category": "Cursed Facts",
+    "subcategory": "You’ll wish you didn’t know these.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some jellyfish are biologically immortal",
+    "answer": true
+  }
+]

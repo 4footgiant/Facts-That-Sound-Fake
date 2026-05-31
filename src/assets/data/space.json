@@ -1,0 +1,902 @@
+[
+  {
+    "id": "SP001",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP002",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP003",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP004",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP005",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP006",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP007",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP008",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP009",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP010",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP011",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP012",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP013",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP014",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP015",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP016",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP017",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP018",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP019",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP020",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP021",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP022",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP023",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP024",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP025",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP026",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP027",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP028",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP029",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP030",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP031",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP032",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP033",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP034",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP035",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP036",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP037",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP038",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP039",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP040",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP041",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP042",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP043",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP044",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP045",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP046",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP047",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP048",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP049",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP050",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP051",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP052",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP053",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP054",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP055",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP056",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP057",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP058",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP059",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP060",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP061",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP062",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP063",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP064",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP065",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP066",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP067",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP068",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP069",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP070",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP071",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP072",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP073",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP074",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP075",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP076",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP077",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP078",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP079",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP080",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP081",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP082",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP083",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP084",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP085",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP086",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP087",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP088",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP089",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP090",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  },
+  {
+    "id": "SP091",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Space smells like burnt steak",
+    "answer": true
+  },
+  {
+    "id": "SP092",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Saturn could float in water",
+    "answer": true
+  },
+  {
+    "id": "SP093",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "One day on Venus is longer than its year",
+    "answer": true
+  },
+  {
+    "id": "SP094",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Astronauts grow taller in space",
+    "answer": true
+  },
+  {
+    "id": "SP095",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Black holes can stretch objects like spaghetti",
+    "answer": true
+  },
+  {
+    "id": "SP096",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Mercury days last longer than its years",
+    "answer": true
+  },
+  {
+    "id": "SP097",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Neutron stars are absurdly dense",
+    "answer": true
+  },
+  {
+    "id": "SP098",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "There are planets where it rains glass sideways",
+    "answer": true
+  },
+  {
+    "id": "SP099",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "The Moon slowly drifts away from Earth",
+    "answer": true
+  },
+  {
+    "id": "SP100",
+    "category": "Space",
+    "subcategory": "The universe is deeply concerning.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Footprints on the Moon can last millions of years",
+    "answer": true
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "SO001",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO002",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO003",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO004",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO005",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO006",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO007",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO008",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO009",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO010",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO011",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO012",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO013",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO014",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO015",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO016",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO017",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO018",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO019",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO020",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO021",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO022",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO023",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO024",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO025",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO026",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO027",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO028",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO029",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO030",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO031",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO032",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO033",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO034",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO035",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO036",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO037",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO038",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO039",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO040",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO041",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO042",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO043",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO044",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO045",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO046",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO047",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO048",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO049",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO050",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO051",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO052",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO053",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO054",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO055",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO056",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO057",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO058",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO059",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO060",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO061",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO062",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO063",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO064",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO065",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO066",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO067",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO068",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO069",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO070",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO071",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO072",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO073",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO074",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO075",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO076",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO077",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO078",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO079",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO080",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO081",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO082",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO083",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO084",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO085",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO086",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO087",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO088",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO089",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO090",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some fish can change gender",
+    "answer": true
+  },
+  {
+    "id": "SO091",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Honey never expires",
+    "answer": true
+  },
+  {
+    "id": "SO092",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Ancient Romans used urine as mouthwash",
+    "answer": true
+  },
+  {
+    "id": "SO093",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Pineapples eat you back",
+    "answer": true
+  },
+  {
+    "id": "SO094",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some fungi turn insects into zombies",
+    "answer": true
+  },
+  {
+    "id": "SO095",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Nutmeg can become toxic in large amounts",
+    "answer": true
+  },
+  {
+    "id": "SO096",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your immune system can attack your own eyes",
+    "answer": true
+  },
+  {
+    "id": "SO097",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Cashews grow outside fruit",
+    "answer": true
+  },
+  {
+    "id": "SO098",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Water can boil and freeze at the same time",
+    "answer": true
+  },
+  {
+    "id": "SO099",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Ketchup was once sold as medicine",
+    "answer": true
+  },
+  {
+    "id": "SO100",
+    "category": "Sounds Illegal",
+    "subcategory": "Somehow these are real.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some fish can change gender",
+    "answer": true
+  }
+]

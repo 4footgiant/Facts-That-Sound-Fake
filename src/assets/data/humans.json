@@ -1,0 +1,902 @@
+[
+  {
+    "id": "HU001",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU002",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU003",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU004",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU005",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU006",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU007",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU008",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU009",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU010",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU011",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU012",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU013",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU014",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU015",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU016",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU017",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU018",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU019",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU020",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU021",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU022",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU023",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU024",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU025",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU026",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU027",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU028",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU029",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU030",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU031",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU032",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU033",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU034",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU035",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU036",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU037",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU038",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU039",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU040",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU041",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU042",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU043",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU044",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU045",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU046",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU047",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU048",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU049",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU050",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU051",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU052",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU053",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU054",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU055",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU056",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU057",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU058",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU059",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU060",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU061",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU062",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU063",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU064",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU065",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU066",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU067",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU068",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU069",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU070",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU071",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU072",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU073",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU074",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU075",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU076",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU077",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU078",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU079",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU080",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU081",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU082",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU083",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU084",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU085",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU086",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU087",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU088",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU089",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU090",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  },
+  {
+    "id": "HU091",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Humans share DNA with bananas",
+    "answer": true
+  },
+  {
+    "id": "HU092",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Your tongue print is unique",
+    "answer": true
+  },
+  {
+    "id": "HU093",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "People get slightly taller in the morning",
+    "answer": true
+  },
+  {
+    "id": "HU094",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Some people sneeze in sunlight",
+    "answer": true
+  },
+  {
+    "id": "HU095",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your stomach replaces its lining regularly",
+    "answer": true
+  },
+  {
+    "id": "HU096",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Your body contains enough iron to make a nail",
+    "answer": true
+  },
+  {
+    "id": "HU097",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Humans can hear their own eyeballs move sometimes",
+    "answer": true
+  },
+  {
+    "id": "HU098",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Your nose can remember thousands of smells",
+    "answer": true
+  },
+  {
+    "id": "HU099",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Your fingerprints form before birth",
+    "answer": true
+  },
+  {
+    "id": "HU100",
+    "category": "Humans",
+    "subcategory": "Humans are weird little creatures.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Your brain runs on electricity",
+    "answer": true
+  }
+]

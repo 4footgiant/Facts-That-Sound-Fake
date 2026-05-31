@@ -1,0 +1,902 @@
+[
+  {
+    "id": "HI001",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI002",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI003",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI004",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI005",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI006",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI007",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI008",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI009",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI010",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI011",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI012",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI013",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI014",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI015",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI016",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI017",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI018",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI019",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI020",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI021",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI022",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI023",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI024",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI025",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI026",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI027",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI028",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI029",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI030",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI031",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI032",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI033",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI034",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI035",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI036",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI037",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI038",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI039",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI040",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI041",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI042",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI043",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI044",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI045",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI046",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI047",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI048",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI049",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI050",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI051",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI052",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI053",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI054",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI055",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI056",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI057",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI058",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI059",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI060",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI061",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI062",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI063",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI064",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI065",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI066",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI067",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI068",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI069",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI070",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI071",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI072",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI073",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI074",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI075",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI076",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI077",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI078",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI079",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI080",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI081",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI082",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI083",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI084",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI085",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI086",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI087",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI088",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI089",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI090",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  },
+  {
+    "id": "HI091",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Australia lost a war against emus",
+    "answer": true
+  },
+  {
+    "id": "HI092",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Napoleon was attacked by rabbits",
+    "answer": true
+  },
+  {
+    "id": "HI093",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Oxford is older than the Aztec Empire",
+    "answer": true
+  },
+  {
+    "id": "HI094",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Cleopatra lived closer to the Moon landing than the pyramids",
+    "answer": true
+  },
+  {
+    "id": "HI095",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "The Eiffel Tower was meant to be temporary",
+    "answer": true
+  },
+  {
+    "id": "HI096",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "A war once started over a bucket",
+    "answer": true
+  },
+  {
+    "id": "HI097",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Vikings used skis",
+    "answer": true
+  },
+  {
+    "id": "HI098",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Ancient Romans used fast food stalls",
+    "answer": true
+  },
+  {
+    "id": "HI099",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Pirates wore earrings for superstition",
+    "answer": true
+  },
+  {
+    "id": "HI100",
+    "category": "History",
+    "subcategory": "Humanity has always been chaotic.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "The Great Fire of London barely spread outside the city walls",
+    "answer": true
+  }
+]

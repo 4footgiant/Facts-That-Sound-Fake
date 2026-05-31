@@ -1,0 +1,902 @@
+[
+  {
+    "id": "AN001",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN002",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN003",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN004",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN005",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN006",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN007",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN008",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN009",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN010",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN011",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN012",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN013",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN014",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN015",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN016",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN017",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN018",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN019",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN020",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN021",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN022",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN023",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN024",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN025",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN026",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN027",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN028",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN029",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN030",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN031",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN032",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN033",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN034",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN035",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN036",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN037",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN038",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN039",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN040",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN041",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN042",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN043",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN044",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN045",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN046",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN047",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN048",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN049",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN050",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN051",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN052",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN053",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN054",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN055",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN056",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN057",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN058",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN059",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN060",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN061",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN062",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN063",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN064",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN065",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN066",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN067",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN068",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN069",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN070",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN071",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN072",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN073",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN074",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN075",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN076",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN077",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN078",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN079",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN080",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN081",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN082",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN083",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN084",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN085",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN086",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN087",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN088",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN089",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN090",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  },
+  {
+    "id": "AN091",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Wombats poop cubes",
+    "answer": true
+  },
+  {
+    "id": "AN092",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Octopuses punch fish out of spite",
+    "answer": true
+  },
+  {
+    "id": "AN093",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Sharks existed before trees",
+    "answer": true
+  },
+  {
+    "id": "AN094",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Sea otters hold hands while sleeping",
+    "answer": true
+  },
+  {
+    "id": "AN095",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Koalas have fingerprints similar to humans",
+    "answer": true
+  },
+  {
+    "id": "AN096",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Penguins propose with pebbles",
+    "answer": true
+  },
+  {
+    "id": "AN097",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Some turtles breathe through their butts",
+    "answer": true
+  },
+  {
+    "id": "AN098",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Rats laugh when tickled",
+    "answer": true
+  },
+  {
+    "id": "AN099",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Bees recognize human faces",
+    "answer": true
+  },
+  {
+    "id": "AN100",
+    "category": "Animals",
+    "subcategory": "Nature was clearly unsupervised.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Jellyfish existed before dinosaurs",
+    "answer": true
+  }
+]

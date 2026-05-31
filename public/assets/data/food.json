@@ -1,0 +1,902 @@
+[
+  {
+    "id": "FO001",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO002",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO003",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO004",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO005",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO006",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO007",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO008",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO009",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO010",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO011",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO012",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO013",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO014",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO015",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO016",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO017",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO018",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO019",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO020",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO021",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO022",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO023",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO024",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO025",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO026",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO027",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO028",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO029",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO030",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO031",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO032",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO033",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO034",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO035",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO036",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO037",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO038",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO039",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO040",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO041",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO042",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO043",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO044",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO045",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO046",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO047",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO048",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Cursed",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO049",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO050",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO051",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO052",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO053",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO054",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO055",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO056",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO057",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO058",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO059",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO060",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO061",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO062",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO063",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO064",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Existential",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO065",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO066",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO067",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Mind-Blowing",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO068",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO069",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO070",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO071",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO072",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO073",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO074",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO075",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO076",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Funny",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO077",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO078",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO079",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO080",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Existential",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO081",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO082",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Funny",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO083",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO084",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO085",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Mind-Blowing",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO086",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO087",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO088",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO089",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO090",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  },
+  {
+    "id": "FO091",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "White chocolate technically is not chocolate",
+    "answer": true
+  },
+  {
+    "id": "FO092",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Mind-Blowing",
+    "fact": "Carrots were originally purple",
+    "answer": true
+  },
+  {
+    "id": "FO093",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Existential",
+    "fact": "Peanut butter legally contains insect fragments",
+    "answer": true
+  },
+  {
+    "id": "FO094",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Apples float because they contain air",
+    "answer": true
+  },
+  {
+    "id": "FO095",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Cursed",
+    "fact": "Chocolate was once used as currency",
+    "answer": true
+  },
+  {
+    "id": "FO096",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Funny",
+    "fact": "Cucumbers are mostly water",
+    "answer": true
+  },
+  {
+    "id": "FO097",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Legendary",
+    "type": "Weird",
+    "fact": "Popcorn can jump while cooking",
+    "answer": true
+  },
+  {
+    "id": "FO098",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Rare",
+    "type": "Weird",
+    "fact": "Cheese is older than recorded history",
+    "answer": true
+  },
+  {
+    "id": "FO099",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Cursed",
+    "fact": "Strawberries are not technically berries",
+    "answer": true
+  },
+  {
+    "id": "FO100",
+    "category": "Food",
+    "subcategory": "Your appetite may not survive this.",
+    "rarity": "Common",
+    "type": "Weird",
+    "fact": "Potatoes were the first vegetable grown in space",
+    "answer": true
+  }
+]
